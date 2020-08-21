@@ -1,6 +1,6 @@
-# some_animation_ex12
+# travel_expedition_ui_challenge
 
-A new Flutter project.
+This my implementation of https://github.com/MarcinusX/sy_expedition_travel_challenge
 
 ## Getting Started
 
