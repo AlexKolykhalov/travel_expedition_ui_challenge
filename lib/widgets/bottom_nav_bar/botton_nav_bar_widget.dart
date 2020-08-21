@@ -112,7 +112,7 @@ class BottomNavBarWidget extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          width: size.width * 0.15,
+                          width: size.width * 0.18,
                           child: Align(
                               alignment: Alignment.centerRight,
                               child: Icon(Icons.share)),

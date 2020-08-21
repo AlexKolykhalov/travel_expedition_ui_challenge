@@ -42,14 +42,14 @@ packages:
       name: bloc
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.0.1"
+    version: "6.0.2"
   bloc_test:
     dependency: "direct dev"
     description:
       name: bloc_test
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "7.0.1"
+    version: "7.0.2"
   boolean_selector:
     dependency: transitive
     description:
@@ -349,7 +349,7 @@ packages:
       name: provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.3.1"
+    version: "4.3.2+1"
   pub_semver:
     dependency: transitive
     description:

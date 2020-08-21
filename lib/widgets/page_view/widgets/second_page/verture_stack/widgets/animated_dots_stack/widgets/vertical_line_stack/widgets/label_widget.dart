@@ -66,14 +66,14 @@ class VerticalLineAnimalLabel extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: <Widget>[
                           Container(
-                              width: size.width * 0.05,
+                              width: size.width * 0.04,
                               height: 1.5,
                               decoration: BoxDecoration(color: Colors.black)),
                           Text(
                             'Vultures',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
-                                fontSize: size.height * 0.02),
+                                fontSize: size.height * 0.019),
                           )
                         ],
                       )
@@ -84,10 +84,10 @@ class VerticalLineAnimalLabel extends StatelessWidget {
                             'Leopards',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
-                                fontSize: size.height * 0.02),
+                                fontSize: size.height * 0.019),
                           ),
                           Container(
-                              width: size.width * 0.05,
+                              width: size.width * 0.04,
                               height: 1.5,
                               decoration: BoxDecoration(color: Colors.black)),
                         ],
