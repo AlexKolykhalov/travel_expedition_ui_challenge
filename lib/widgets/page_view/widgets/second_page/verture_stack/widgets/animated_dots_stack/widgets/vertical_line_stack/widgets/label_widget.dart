@@ -73,7 +73,7 @@ class VerticalLineAnimalLabel extends StatelessWidget {
                             'Vultures',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
-                                fontSize: size.height * 0.019),
+                                fontSize: size.height * 0.018),
                           )
                         ],
                       )
@@ -84,7 +84,7 @@ class VerticalLineAnimalLabel extends StatelessWidget {
                             'Leopards',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
-                                fontSize: size.height * 0.019),
+                                fontSize: size.height * 0.018),
                           ),
                           Container(
                               width: size.width * 0.04,
